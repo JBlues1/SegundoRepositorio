@@ -1,5 +1,4 @@
-# Desarrollando escenarios
-	Feature: Test Facebook smoke scenario
+Feature: Test Facebook smoke scenario
 	
 		Scenario: Test login with valid credentials
 				Given open Firefox and start aplication
