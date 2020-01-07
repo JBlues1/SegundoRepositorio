@@ -2,5 +2,14 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Julio Hernández/OneDrive/Librerías Externas/cobertura-2.1.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio Hernández/OneDrive/Librerías Externas/cucumber-core-1.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio Hernández/OneDrive/Librerías Externas/cucumber-java-1.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio Hernández/OneDrive/Librerías Externas/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio Hernández/OneDrive/Librerías Externas/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio Hernández/OneDrive/Librerías Externas/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio Hernández/OneDrive/Librerías Externas/gherkin-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio Hernández/OneDrive/Librerías Externas/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Julio Hernández/OneDrive/Librerías Externas/mockito-all-2.0.2-beta.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
